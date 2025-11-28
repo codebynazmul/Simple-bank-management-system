@@ -1,4 +1,4 @@
-# 🏦 Bank Management System in C
+#  Bank Management System in C
 
 A simple, class-wise **Bank Management System** built in pure **C language** —  
 designed to manage customer accounts, deposits, withdrawals, and balance checks.  
@@ -6,7 +6,7 @@ All data is stored locally using file handling.
 
 ---
 
-## ⚙️ Features
+##  Features
 
  * Add new account  
  * Deposit and withdraw money  
@@ -18,9 +18,9 @@ All data is stored locally using file handling.
 
 ---
 
-## ⚠️ Important Note
+##  Important Note
 
-🚫 **This program will not run properly on any online compiler**  
+ **This program will not run properly on any online compiler**  
 because it uses **local file handling (read/write operations)** to save data.  
 
 To experience the full functionality, please **run it on your local computer** using:
@@ -31,7 +31,7 @@ To experience the full functionality, please **run it on your local computer** u
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Language:** C  
 - **Compiler:** GCC / Code::Blocks / Turbo C  
@@ -42,4 +42,5 @@ To experience the full functionality, please **run it on your local computer** u
 
 ## 🪜 How to Run
 
- Clone or download this repository
+
+ - Clone or download this repository
