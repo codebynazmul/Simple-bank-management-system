@@ -16,7 +16,7 @@ All data is stored locally using file handling.
  * Each section loads on a fresh console screen  
  * Closes with a signature screen showing developer credit
 
-- --
+- - -
 
 ##  Important Note
 
@@ -44,4 +44,5 @@ To experience the full functionality, please **run it on your local computer** u
 
 
  - Clone or download this repository
+
 
